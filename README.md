@@ -20,6 +20,8 @@
  </table>
   
   <hr/>
+  
+## Link video: https://drive.google.com/file/d/1Rft9odk18-dM5LfYw5SLCa4RoylZ35zu/view?usp=sharing
 
 ## Dari database ketika UTS kemarin, saya membuat menu login untuk mengakses ke halaman dashboard yang menampilkan data klinik.
 
